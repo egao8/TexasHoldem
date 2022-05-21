@@ -3,6 +3,7 @@
 May 2021
 Auth (Eddie Gao, Kenny Smith)
 
+
 This is a fully open-source Python-based Texas Hold'em game supporting Python 3 on Windows, Mac and Linux. The game plays out exactly like a traditional Texas Hold'em match in a Player v.s Computer form.
 
 
