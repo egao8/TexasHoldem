@@ -1,6 +1,6 @@
 # Texas Hold'em
 
-May 2021
+May 2021 -
 Auth (Eddie Gao, Kenny Smith)
 
 
