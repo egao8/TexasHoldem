@@ -1,9 +1,12 @@
 # Texas Hold'em
 
+May 2021
+Auth (Eddie Gao, Kenny Smith)
+
 This is a fully open-source Python-based Texas Hold'em game supporting Python 3 on Windows, Mac and Linux. The game plays out exactly like a traditional Texas Hold'em match in a Player v.s Computer form.
 
 
-Do know you've the liberty to explore the code and the game itself, though a prior understanding of poker and Texas Hold'em is recommended. In the case that you've never learned the rules and strategy of Texas Hold'em,  [here's a quick rundown on the infamous game.](https://www.wikihow.com/Play-Poker)
+Do know you've the liberty to explore the code and the game itself, though a prior understanding of poker and Texas Hold'em is recommended. In the case that you've never learned the rules and strategy of Texas Hold'em,  [here's a quick rundown on the game.](https://www.wikihow.com/Play-Poker)
 
 ## Features
 
@@ -16,9 +19,6 @@ Do know you've the liberty to explore the code and the game itself, though a pri
 - [x] Hand strength calculation/evaluation
 - [x] Determination of winning hands
 - [x] All-ins, big blinds, small blinds
-- [x] Reactive Machine (RM) Intelligence along with Artificial Narrow Intelligence (ANI)
-- [ ] Theory of mind and memory based AI
-- [ ] Machine Learning/Deep Learning
 
 ## Installation
 
